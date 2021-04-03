@@ -1,108 +1,25 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: “Quality” mindset I learned as a QA in the pharmaceutical industry which helps me as an Automation Engineer. 
+date: "2021-04-03T22:40:32.169Z"
+description:
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+By trade, I like to identify myself  as a QA Automation engineer. Nowadays, I help my clients and employers automate their quality assurance needs. This primarily involves understanding the business, product and the engineers that build it to create automation suites for End-to-End and Integration tests. 
+## Quality is....... !!
 
-## On deer horse aboard tritely yikes and much
+Emphasis on quality is like a spectrum in the technology.  Some companies treat quality as the first class citizen of their product. For these ‘S’ class companies, quality is one of the required criteria for success. They often believe in “build fast, fail fast” thus automating and catching errors, bugs, feature failure is utmost important to them. Contrary to the bastardization of this popular  line - ‘build fast, fail fast’ does not mean failing in production. It usually means failing as fast as possible during development and QA to catch the issues before it hits production and this is where automating End-to-End and Integration tests can give real power.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Then there are some companies which treat QA as something you at the very end to make sure something terrible is not broken. This often leads to a bunch of humans, working in complete or partial isolation, clicking away on your app or shiny website just days before release. This often leads to pissed off developers and frustrated product owners because poor QA associates are opening faux pa issues or they found something very critical which threw a wrench in the project timeline. This setup often leads to and is a result of siloed team structure and break down of communication between developers and QAs.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+## Eye of sauron 
 
-### Overlaid the jeepers uselessly much excluding
+Perhaps I am not the first one to go on an insufferable rant about dysfunctional team structures but I am finding the tendency to treat “Quality as afterthought” or “something alien that someone elses do” very bizarre. This is because before I was commanding the army of Cypress test runners to test away my desired scenario, I was a Quality Assurance associate in the Pharma industry. In the Pharma industry, Quality is like one ring that rules all. It is the watchful eye of Sauron that is making sure you are not taking a wrong step. The medicine that you put in your mouth or the fancy cream that you rub on your skin has gone through very rigorous testing. Each and every step needs to be documented, reviewed and organized. Once or twice a year, the FDA may come knocking on your door to make sure everything is in line. Even a tiny change in the product requires rigorous reviews by Quality Assurance and Quality Control people. 
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+Now granted that Pharma products are serious business and stakes are very high compared to your fancy dating app. I also acknowledge that even the Pharma industry is not perfect. I am not all expecting product owners to run around getting permission from QA engineers for every little change.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+## Build fast, fail fast.... only by automating **quality**&trade;
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+What I am trying to highlight is the mindset that is ingrained in you as a pharma QA. That the end user must get the highest quality product. That the end product not only should function as expected but should be highest quality. Building process around quality and making it a seamless cog in the production system is essential. As an automation engineer, I try to apply the same principle as well. I primarily try to build automation test suites, processes and ideally integrate it in CI/CD pipeline to provide continual feedback to developers, product owners and every that care about final outcome. As an automation engineer, my goal is not only to verify each and every scenario where things can can go wrong but also to dial up a notch and make sure the end result is the highest quality experience for the end user.
 
-### According a funnily until pre-set or arrogant well cheerful
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
