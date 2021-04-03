@@ -4,7 +4,7 @@ date: "2021-04-03T22:40:32.169Z"
 description:
 ---
 
-# “Quality” mindset I learned as a QA in the pharmaceutical industry which helps me as an Automation Engineer
+# “Quality” mindset I learned as a QA in the pharmaceutical industry which helps me as an Automation Engineer.
 
 By trade, I like to identify myself  as a QA Automation engineer. Nowadays, I help my clients and employers automate their quality assurance needs. This primarily involves understanding the business, product and the engineers that build it to create automation suites for End-to-End and Integration tests. 
 ## Quality is....... !!
