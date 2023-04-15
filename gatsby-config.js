@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `All Things Quality`,
+    title: `All Things Product`,
     author: {
       name: `Sneha Pandya`,
-      summary: `who is interested in building useful things.`,
+      summary: ` - an Agile Scrum Master devoted to crafting impactful solutions and driving digital innovation`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `snehapandya28`,
+      liniedin: `snehapandya28`,
     },
   },
   plugins: [
